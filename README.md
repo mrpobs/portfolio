@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Business Bachelor
+Business Bachelor  
 Marketing Intermidiate Degree
 
 ### Projects
